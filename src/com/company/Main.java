@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// Programa para hacer triangulos con *
+        // Programa para hacer triangulos con *
 
         // Imprimir la escalera de * de 1 a 7 unidades
         String chars = "";
